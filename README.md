@@ -43,8 +43,7 @@ int main()
 
 
 ## Output:
-<img width="705" height="237" alt="image" src="https://github.com/user-attachments/assets/12e201b8-e9aa-479e-a14a-e38c03e79dad" />
-
+<img width="1260" height="548" alt="image" src="https://github.com/user-attachments/assets/f1d5cf76-d0b7-4471-b121-00d3b38c796b" />
 
 ## Result:
   The program is executed successfully
